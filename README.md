@@ -103,8 +103,4 @@ The app opens at `http://localhost:8501`.
 =======
 # ATS_SCORER
 >>>>>>> 5420ee12139c70ec69a8a436b6d5ffbaab593439
-#project vl be finished
->>>>>>>
->>>>>>> 
-
 
